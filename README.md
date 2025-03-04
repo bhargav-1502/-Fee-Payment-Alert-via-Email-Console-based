@@ -6,6 +6,6 @@ A Python-based fee management system designed for admins to manage user details,
 
 • Automatic email alerts for fee payments & pending dues 
 
-•Editable user details for easy status updates 
+• Editable user details for easy status updates 
 
-•Simple and efficient SMTP-based email integration
+• Simple and efficient SMTP-based email integration
